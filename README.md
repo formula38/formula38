@@ -4,7 +4,7 @@
 
 ## :construction: Currently working on :
 
-- Indie Music Publisher API
+- Indie Music Publishing API
 - AWS Certified Developer - Associate Certification
 - Golf Swing 🏌🏿
 
