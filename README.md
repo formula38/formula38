@@ -1,4 +1,4 @@
-## Hi everyone 👋🏿, My name is Louis.
+## Hi everyone 👋🏿, my name is Louis.
 #### The stone that killed ✌🏿 Birds...
 Audio Engineer turned Software Engineer
 
