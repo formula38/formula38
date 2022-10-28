@@ -1,4 +1,32 @@
-### Hi there 👋
+## Hi everyone 👋, My name is Louis and Welcome to my GitHub Channel! 
+
+## :construction: Currently working on :
+
+- Reddit Clone App
+- AWS Certified Developer - Associate Certification
+- Shoppig Cart
+- Budgeting App
+
+## :apple: Currently learning :
+
+- AWS
+
+
+
+## :hammer_and_wrench: Languages and Tools :
+
+| Category | Languages and Tools |
+|:--------:|---------------------|
+| Front End | <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular"/> |
+| Back End | <img src="https://skillicons.dev/icons?i=java,spring,postgres,hibernate"/> |
+| DevOps | <img src="https://skillicons.dev/icons?i=docker,aws,git"/> |
+| Other | <img src="https://skillicons.dev/icons?i=nodejs,webpack,maven"/> |
+| Testing | `JUnit`  `Jasmine`  `Jest`  `Mockito`  `TDD`  `BDD` |
+
+## :fire: GitHub Stats : 
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=formula38&show_icons=true&theme=vision-friendly-dark" alt="formula38" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=formula38&layout=compact&theme=vision-friendly-dark" alt="formula38" /></p>
 
 <!--
 **formula38/formula38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
