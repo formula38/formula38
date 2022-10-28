@@ -1,11 +1,12 @@
-## Hi everyone 👋, My name is Louis and Welcome to my GitHub Channel! 
+## Hi everyone 👋🏿, My name is Louis.
+### The stone that killed ✌🏿 Birds
+#### Audio Engineer turned Sofware Engineer
 
 ## :construction: Currently working on :
 
-- Reddit Clone App
+- Indie Music Publisher API
 - AWS Certified Developer - Associate Certification
-- Shoppig Cart
-- Budgeting App
+- Golf Swing 🏌🏿
 
 ## :apple: Currently learning :
 
