@@ -6,7 +6,7 @@ Audio Engineer turned Software Engineer
 
 - Indie Music Publishing API
 - AWS Certified Developer - Associate Certification
-- Golf Swing 🏌🏿
+- My Golf Swing 🏌🏿
 
 ## :apple: Currently learning :
 
