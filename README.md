@@ -1,6 +1,6 @@
 ## Hi everyone 👋🏿, My name is Louis.
 ### The stone that killed ✌🏿 Birds
-#### Audio Engineer turned Sofware Engineer
+#### Audio Engineer turned Software Engineer
 
 ## :construction: Currently working on :
 
