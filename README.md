@@ -26,8 +26,8 @@ Audio Engineer turned Software Engineer
 
 ## :fire: GitHub Stats : 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=formula38&show_icons=true&theme=vision-friendly-dark" alt="formula38" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=formula38&layout=compact&theme=vision-friendly-dark" alt="formula38" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=formula38&show_icons=true&theme=vision-friendly-dark" alt="Louis Conley" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=formula38&layout=compact&theme=vision-friendly-dark" alt="Louis Conley" /></p>
 
 <!--
 **formula38/formula38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
