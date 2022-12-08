@@ -22,7 +22,7 @@ Audio Engineer turned Software Engineer
 | Back End | <img src="https://skillicons.dev/icons?i=java,spring,postgres,hibernate"/> |
 | DevOps | <img src="https://skillicons.dev/icons?i=docker,aws,git"/> |
 | Other | <img src="https://skillicons.dev/icons?i=nodejs,webpack,maven"/> |
-| Testing | `JUnit`  `Jasmine`  `Jest`  `Mockito`  `TDD`  `BDD` |
+| Testing | `JUnit`  `Mockito`  `Jasmine`  `Jest`  `TDD`  `BDD` |
 
 ## :fire: GitHub Stats : 
 
