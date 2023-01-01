@@ -5,6 +5,7 @@ Audio Engineer turned Software Engineer
 ## :construction: Currently working on :
 
 - Indie Music Publishing API
+- OCPJP Certification
 - AWS Certified Developer - Associate Certification
 - My Golf Swing 🏌🏿
 
