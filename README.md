@@ -5,14 +5,15 @@ Audio Engineer turned Software Engineer
 ## :construction: Currently working on :
 
 - Indie Music Publishing API
+- Renewing CompTia Security+ Ceritification
 - OCPJP Certification
-- AWS Certified Developer - Associate Certification
+- AWS Certified Solutions Architech Certification
 - My Golf Swing 🏌🏿
 
 ## :apple: Currently learning :
 
-- AWS
-
+- Web Application Security
+- Microservices Distributed Systems
 
 
 ## :hammer_and_wrench: Languages and Tools :
