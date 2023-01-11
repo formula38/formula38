@@ -15,7 +15,6 @@ Audio Engineer turned Software Engineer
 - Web Application Security
 - Microservices Distributed Systems
 
-
 ## :hammer_and_wrench: Languages and Tools :
 
 | Category | Languages and Tools |
