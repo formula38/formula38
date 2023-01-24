@@ -19,10 +19,10 @@ Audio Engineer turned Software Engineer
 
 | Category | Languages and Tools |
 |:--------:|---------------------|
-| Front End | <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular"/> |
-| Back End | <img src="https://skillicons.dev/icons?i=java,spring,postgres,hibernate"/> |
-| DevOps | <img src="https://skillicons.dev/icons?i=docker,aws,git"/> |
-| Other | <img src="https://skillicons.dev/icons?i=nodejs,webpack,maven"/> |
+| Front End | <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap"/> |
+| Back End | <img src="https://skillicons.dev/icons?i=java,spring,postgres,maven,hibernate"/> |
+| DevOps | <img src="https://skillicons.dev/icons?i=git,github,docker,aws,"/> |
+| Other | <img src="https://skillicons.dev/icons?i=linux,vim,bash,idea,nodejs,webpack"/> |
 | Testing | `JUnit`  `Mockito`  `Jasmine`  `Jest`  `TDD`  `BDD` |
 
 ## :fire: GitHub Stats : 
